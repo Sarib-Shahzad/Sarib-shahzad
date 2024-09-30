@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 ```diff
 +    👋: Sarib Shahzad 
 +    👀: Software Developer 
-+    +2 React, TS, Node
++    +3 React, TS, Node
 +    💻: Code Enthusiast 
 +    🚀: Tech Explorer 
 ```
